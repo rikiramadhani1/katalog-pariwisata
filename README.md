@@ -1,3 +1,6 @@
-# Studi Kasus Express 
+# Aplikasi Food Delivery Santap 
 
-Source code untuk studi kasus membuat Web API dengan Express. Disarankan untuk mengikuti step by step studi kasus di ebook. 
+Aplikasi ini dibuat untuk memudahkan masyarakat untuk berbelanja makanan di masa pandemi tanpa perlu keluar rumah. :D 
+
+#stayathome
+#dirumahaja
